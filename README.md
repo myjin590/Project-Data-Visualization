@@ -2,7 +2,7 @@
 Covid19 - Data Visualization
 
 ## Description
-*note* This project is linked with Covid19-Patient project.\
+*note* : This project is linked with COVID-19 Patient Management project.\
 If user selects 'save records of results' before program exit, the data will be saved in csv file.
 This project is for visualizing the data to graph.
 
